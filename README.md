@@ -2,9 +2,11 @@
 Todoist tasks fetch script.
 
 ## Installation
+Activate your python virtual environment.
 ```
 cd ~
 git clone git@github.com:janmaghuyop/automata-todo.git
+pip install -r requirements.txt
 echo 'PATH=$PATH:~/automata-todo' >> ~/.zshrc
 exit
 ```
