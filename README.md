@@ -5,7 +5,7 @@ Todoist tasks fetch script.
 ```
 cd ~
 git clone git@github.com:janmaghuyop/automata-todo.git
-echo 'PATH=$PATH:~/automata-todo'
+echo 'PATH=$PATH:~/automata-todo' >> ~/.zshrc
 exit
 ```
 
