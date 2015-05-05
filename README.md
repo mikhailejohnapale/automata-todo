@@ -17,5 +17,5 @@ subl todo.py
 
 ## Usage
 ```
-python todo.py
+todo.sh
 ```
