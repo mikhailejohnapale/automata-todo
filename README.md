@@ -10,6 +10,7 @@ exit
 ```
 
 ## Credentials
+Place your username and password.
 ```
 subl todo.py
 ```
